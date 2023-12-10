@@ -1,9 +1,9 @@
 class Bicepdocs < Formula
   desc "A tool to build documentation for Bicep modules"
   homepage "https://github.com/joachimdalen/bicepdocs"
-  version "0.1.2"
-  url "https://github.com/joachimdalen/bicepdocs/releases/download/v0.1.2/bicepdocs-osx-x64"
-  sha256 "b7ab6321f4acd5299b872a18bd936a767fd8848a7b76151973d5902ed4bb3dd2"
+  version "0.1.3"
+  url "https://github.com/joachimdalen/bicepdocs/releases/download/v0.1.3/bicepdocs-osx-x64"
+  sha256 "4d7ef06a98352fe2439f3fa079be54564bca6ed406a94b0e8efe1314dd261024"
 
   license "MIT"
 
